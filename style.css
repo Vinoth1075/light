@@ -1,0 +1,23 @@
+img{
+    height: 500px;
+    width: 350px;
+    border-radius:30px;
+    margin-top: 30px;
+}
+
+#btn{
+    height: 35px;
+    width: 150px;
+    border-radius: 10px;
+}
+#btn:hover{
+    background: palevioletred;
+}
+h1{
+    background: grey;
+    color: chocolate;
+}
+body{
+    background: burlywood;
+    
+}
